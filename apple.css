@@ -1,0 +1,526 @@
+
+.navbar{
+    margin-left: 6px;
+    background-color: rgb(179, 179, 179);
+    height: 5vh;
+    box-sizing: border-box;
+    background-size: cover;
+}
+
+.search{
+    margin-left: 79vh;
+    width: 60vh;
+    margin-top: 10px;
+}
+.iphone{
+    background-image: url(images/black.jpg);
+    margin-top: 3vh;
+    height: 103vh;
+}
+.head h1{
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 200px;
+    display: flex;
+    padding-left: 30px;
+    margin-left: 99vh;
+    margin-top: -95vh;
+    font-weight: bold;
+}
+.head p{
+    display: flex;
+    text-align: center;
+    color: aliceblue;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    width:  450px;
+    margin-left: 81vh;
+}
+.login{
+    display: flex;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.09px;
+    border: none;
+}
+.login .learn{
+    width: 19vh;
+    height: 6vh;
+    border: none;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    border-radius: 55px;
+    background-color: #1f5de1;
+    color: #ffffff;
+    margin-left: 94vh;
+    margin-top: -5px;
+}
+.shop button{
+    display: flex;
+    background-color: #131212;
+    color:#1f5de1;
+    width: 19vh;
+    height: 6vh;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    border-radius: 55px;
+    border-color: #1f5de1;
+    margin-top: -42px;
+    margin-left: 115vh;
+    padding-top: 9px;
+    padding-left: 11px;
+}
+.login button:hover{
+    background-color: #2568f8;
+    transition: 0.15s;
+}
+.shop button:hover{
+    background-color: #1f5de1;
+    color:  white;
+    transition: 0.15s;
+}
+.image1{
+    display: flex;
+    border: none ;
+    width: 111vh;
+    height: 66.2vh;
+    margin-left: -76vh;
+    margin-top: 6.5vh;
+}
+.mac{
+    margin-left: -140vh;
+    margin-top: -70vh;
+}
+
+
+.head2 h1{
+    color: rgb(23, 22, 22);
+    font-size: 50px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: #ffffff solid 2px ;
+    margin-top: 600px;
+    margin-left: 234vh;
+    font-weight: bold;  
+}
+.head2 p{
+    display: flex;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    width: 380px;
+    margin-left: 235.5vh;
+    margin-top: -5px;
+}
+.macimg{
+    display: flex;
+    border: #ffffff dashed 1px ;
+    width: 300px;
+    height: 350px;
+    margin-left: 205vh;
+    margin-top: 6px;
+}
+
+.loginm .learnm{
+    width: 20vh;
+    height: 6.5vh;
+    border: none;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    border-radius: 55px;
+    background-color: #1f5de1;
+    color: white;
+    margin-left: 239vh;
+    margin-top: -12px;
+    padding-top: -5px;
+}
+.buym button{
+    display: flex;
+    color:#1f5de1;
+    width: 10.5vh;
+    height: 6.5vh;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    border-radius: 55px;
+    border-color: #1f5de1;
+    border-width: thin;
+    margin-top: -45px;
+    margin-left: 261vh;
+    padding-top: 11px;
+    padding-left: 22px;
+    background-color: #ffffff;
+}
+.loginm button:hover{
+    background-color: #2568f8;
+    transition: 0.15s;
+}
+.buym button:hover{
+    background-color: #1f5de1;
+    color:  white;
+    transition: 0.15s;
+}
+.bg{
+    background-image: url(images/blacky.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    width: 210vh;
+    margin-left: 5vh;
+    margin-top: 90px;
+ }
+ .line{
+    background-image: url(images/white.png);
+    border: none;
+    width: 30px;
+    height: 90.6vh;
+    margin-left: 102vh;
+    margin-top: -79.8vh;
+ }
+ .wwdc p{
+    color: aliceblue;
+    width: 350px;
+    text-align: center;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:  20px;
+    margin-top: 1px;
+    margin-left: 180px;
+ }
+ .wwdcbut{
+    width: 21vh;
+    height: 6vh;
+    border: none;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    border-radius: 55px;
+    background-color: #1f5de1;
+    color: white;
+    margin-left: 42vh;
+    margin-top: 5vh;
+    padding-top: 2px;
+    padding-left: 10px;
+    cursor: pointer;
+ }
+ .wwdcbut:hover{
+    background-color: #2568f8;
+    transition: 0.15s;
+    cursor: pointer;
+ }
+ 
+ .wwdc img{
+    border: none;
+    box-sizing: border-box;
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin-left: 60px;
+    margin-top: 5vh;
+ }
+ 
+ .watch h1{
+    color: rgb(215, 28, 28);
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    height: 10px;
+    margin-top: -83vh;
+    margin-left: 147.5vh;
+ }
+ .sub{
+    color: rgb(202, 2, 2);
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    letter-spacing: 3px;
+    font-size: 20px;
+    margin-left: 150.5vh;
+    margin-top: 40px;
+ 
+ }
+ .sub2{
+    color: white;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 133vh;
+    margin-top: 10px;
+ 
+ }
+ .watch h1{
+    color: white;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    height: 10px;
+    margin-top: -83vh;
+    margin-left: 147.5vh;
+ }
+ .sub{
+    color: rgb(202, 2, 2);
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    letter-spacing: 3px;
+    font-size: 20px;
+    margin-left: 150.5vh;
+    margin-top: 40px;
+ 
+ }
+ .sub2{
+    color: white;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 133vh;
+    margin-top: 10px;
+ 
+ }
+ .watch img{
+    border: none;
+    size: 50vh;
+    width: 100vh;
+    margin-left: 107.8vh;
+    margin-top: 5px;
+    cursor: pointer;
+ }
+ .learnw{
+     width: 20vh;
+     height: 6vh;
+     border: none;
+     font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+     box-sizing: border-box;
+     border-radius: 55px;
+     background-color: #1f5de1;
+     color: white;
+     margin-left: 141.5vh;
+     margin-top: -50vh;
+     padding-top: -5px;
+ }
+ 
+ .buyw button{
+     display: flex;
+     color:#1f5de1;
+     width: 10.5vh;
+     height: 6vh;
+     font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+     box-sizing: border-box;
+     border-radius: 55px;
+     border-color: #1f5de1;
+     border-width: 2px;
+     margin-top: -6.2vh;
+     margin-left: 164.5vh;
+     padding-top: 8px;
+     padding-left: 22px;
+     background-color: #000000;
+ }
+ .loginw button:hover{
+     background-color: #4a7ff2;
+     transition: 0.15s;
+ }
+ .buyw button:hover{
+     background-color: #1f5de1;
+     color:  white;
+     transition: 0.15s;
+ }
+
+ .bg2{
+    background-image: url(images/white.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    width: 200vh;
+    margin-left: 5vh;
+    margin-top: 80px;
+    border: 1px solid white;
+ }
+ .ipad{
+    margin-left: 5vh;
+ }
+ .ipad h1{
+    color: rgb(23, 22, 22);
+    font-size: 50px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold; 
+    margin-top: 15vh;
+    margin-left: 43.5vh;
+ }
+
+ .ipad p{
+    color: rgb(0, 0, 0);
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 33vh;
+    margin-top: 1vh;
+ 
+ }
+ .ipad img{
+    border: none;
+    size: 20vh;
+    width: 90vh;
+    height: 50vh;
+    margin-left: 7vh;
+    margin-top: 5vh;
+    cursor: pointer;
+ }
+ .learnp{
+     width: 15vh;
+     height: 5vh;
+     border: none;
+     font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+     box-sizing: border-box;
+     border-radius: 55px;
+     background-color: #1f5de1;
+     color: white;
+     margin-left: 37.5vh;
+     margin-top: -50vh;
+     padding-top: -5px;
+ }
+ 
+ .buyp button{
+     display: flex;
+     color:#1f5de1;
+     width: 9vh;
+     height: 5vh;
+     font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+     box-sizing: border-box;
+     border-radius: 55px;
+     border-color: #1f5de1;
+     border-width: 1px;
+     margin-top: -5vh;
+     margin-left: 54vh;
+     padding-top: 5px;
+     padding-left: 16px;
+     background-color: #ffffff;
+ }
+ .loginp:hover{
+     background-color: #7096e9;
+     transition: 0.15s;
+ }
+ .buyp button:hover{
+     background-color: #1f5de1;
+     color:  white;
+     transition: 0.15s;
+ }
+ .trade{
+    margin-left: 5vh;
+ }
+ .trade h1{
+    color: rgb(0, 0, 0);
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    height: 10px;
+    margin-left: 145vh;
+    margin-top: -75vh;
+    border: none;
+    
+ }
+
+ .trade p{
+    color: rgb(0, 0, 0);
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    width: 320px;
+    text-align: center;
+    margin-left: 132vh;
+    margin-top: 7vh;
+ 
+ }
+ .trade img{
+    border: none;
+    size: 20vh;
+    width: 80vh;
+    height: 50vh;
+    margin-left: 115vh;
+    margin-top: 0.5vh;
+    cursor: pointer;
+ }
+ .trade button{
+    width: 20vh;
+    height: 5vh;
+    border: none;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    border-radius: 55px;
+    background-color: #1f5de1;
+    color: white;
+    margin-left: 146vh;
+    margin-top: -1.5vh;
+    padding-top: -5px;
+}
+.last p{
+    color: #aeaeae;
+    font-size: 11px;
+    margin-top: 10vh;
+    margin-left: 55vh;
+    text-align: center;
+    width: 120vh;
+}
+.list{
+    margin-left: 15vh;
+    width: 20vh;
+}
+
+.list h6{
+    margin-left: 15px;
+}
+.list2{
+    margin-left: 55vh;
+    margin-top: -38.4vh;
+}
+.list2 h6{
+    margin-left: 15px;
+}
+.list3{
+    margin-left: 55vh;
+    margin-top: 1.5vh;
+}
+.list3 h6{
+    margin-left: 15px;
+}
+.list4{
+    margin-left: 98vh;
+    margin-top: -38.4vh;;
+}
+.list4 h6{
+    margin-left: 15px;
+}
+.list5{
+    margin-left: 142vh;
+    margin-top: -38.4vh;;
+}
+.list5 h6{
+    margin-left: 15px;
+}
+.list6{
+    margin-left: 185vh;
+    margin-top: -38.4vh;
+}
+.list6 h6{
+    margin-left: 15px;
+}
+.foot{
+    margin-left: 95vh;
+}
+.one{
+    color: #000000;
+    text-decoration: none;
+}
+.one:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.two{
+    color: #000000;
+    text-decoration: none;
+}
+.two:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.three{
+    color: #000000;
+    text-decoration: none;
+}
+.three:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+ 
+  
